@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test14_Intent</string>
+    <string name="to_second">To Second</string>
+    <string name="here_is_secondactivity">Here is SecondActivity</string>
+</resources>
